@@ -1,1 +1,1 @@
-console.log('hallo test in js2')
+console.log('hallo test,bug fixed')
